@@ -493,6 +493,9 @@ img.dot-image {
   padding: 0;
   height: 35px;
 }
+.add{
+  color: #000000;
+}
 
 img.bikeimage {
   width: 190px;
